@@ -1,0 +1,3 @@
+{
+    "mongoURI":"mongodb+srv://koushikgns:koushikgns@devcluster.jmpui.mongodb.net/?retryWrites=true&w=majority&appName=DevCluster"
+}
