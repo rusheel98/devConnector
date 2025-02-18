@@ -1,4 +1,4 @@
 {
-    "mongoURI":"mongodb+srv://koushikgns:koushikgns@devcluster.jmpui.mongodb.net/",
-    "jwtSecret": "mySecretToken"
+    "mongoURI":"<mongoDB URI string>",
+    "jwtSecret": "<secret>"
 }
